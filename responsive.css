@@ -1,0 +1,140 @@
+@media (max-width:1250px) {
+    .wrap {
+        width: 97%;
+        margin: 0 auto;
+
+    }
+
+    #banner h1 {
+        font-size: 18px;
+        text-align: center;
+        margin: 33px auto;
+    }
+
+    #cards {
+        width: 107%;
+        margin: 1.45%;
+    }
+
+    .card {
+        display: block;
+        width: 18%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .card p {
+        display: block;
+        text-align: center;
+        width: 50%
+    }
+
+    #articulo {
+        width: 65%;
+        font-size: 80%;
+    }
+
+    .description {
+        display: block;
+        padding: 25%;
+        margin-top: -18%;
+        font-size: 80%;
+        text-align: center;
+    }
+
+    #articlo article {
+        width: 97%;
+    }
+
+    #footer .wrap>div {
+        width: 25%;
+    }
+
+    #footer h5 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width:724px) {
+    #header {
+        width: 100%;
+        height: 300px;
+
+    }
+
+    .description {
+        display: block;
+        padding: 25%;
+        margin-top: -18%;
+        font-size: 50%;
+        text-align: center;
+
+    }
+
+    #articulo .parr {
+        display: block;
+        text-align: center;
+        width: 60%;
+        padding: 40%;
+        font-size: 80%;
+    }
+
+    #red {
+        text-align: center;
+    }
+
+    #lateral {
+        display: block;
+        text-align: center;
+    }
+}
+
+@media (max-width:990px) {
+    .card {
+        height: auto;
+    }
+
+    .card .description {
+        display: none;
+    }
+
+    #articulo {
+        font-size: 80%;
+        padding-top: 19%;
+        padding-left: 31%;
+    }
+
+    #lateral {
+        width: 300px;
+        min-height: 670px;
+    }
+
+    #footer {
+        height: auto;
+    }
+
+    #footer .wrap>div {
+        width: 100%;
+        margin: 0px auto;
+        margin-top: 8px;
+    }
+
+    .card .category {
+        width: 100%;
+        height: 43px;
+        font-family: "trebuchetMS";
+        font-size: 12px;
+    }
+
+    #articulo {
+        font-size: 80%;
+        margin-top: 3%;
+    }
+
+    #banner {
+        margin-left: 17px;
+    }
+    #banner h1{
+        font-size: 15px;
+    }
+}
